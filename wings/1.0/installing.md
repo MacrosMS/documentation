@@ -1,6 +1,6 @@
 # Installing Wings
 
-Wings is the next generation server control plane from Pterodactyl. It has been rebuilt from the
+Wings is the next generation server control plane from ArtyWorld. It has been rebuilt from the
 ground up using Go and lessons learned from our first Nodejs Daemon.
 
 ::: warning
