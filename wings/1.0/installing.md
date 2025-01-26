@@ -54,7 +54,7 @@ VMware, Inc.
 
 For a quick install of Docker CE, you can execute the command below:
 
-```bash
+```bash 
 curl -sSL https://get.docker.com/ | CHANNEL=stable bash
 ```
 
